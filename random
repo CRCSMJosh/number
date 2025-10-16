@@ -9,3 +9,5 @@ if __name__ == "__main__":
     min_val = int(input("Enter the minimum value: "))
     max_val = int(input("Enter the maximum value: "))
     print(f"Random number: {generate_random_number(min_val, max_val)}")
+does this mess things up?
+how about now?
